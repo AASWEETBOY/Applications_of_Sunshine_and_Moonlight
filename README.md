@@ -1,5 +1,5 @@
 # Applications_of_Sunshine_and_Moonlight
-Sunshine+Moonlight+ParsecVDisplay实现平板成为**Windows电脑**的副屏（**平板与电脑在局域网内**）
+Sunshine+Moonlight+ParsecVDisplay实现**Android平板**成为**Windows电脑**的副屏（**平板与电脑在局域网内**）
 
 **本教程写于2025/11/13(Sunshine：Version 2025.924.154138、Moonlight：v12.1、ParsecVDisplay：v0.45)**
 ## 参考教程
